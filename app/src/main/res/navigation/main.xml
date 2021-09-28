@@ -26,7 +26,6 @@
             android:id="@+id/action_mainFragment_to_prehyeder"
             app:enterAnim="@anim/left_to_right"
             app:popUpToInclusive="true"
-            app:popUpTo="@id/mainFragment"
             app:destination="@id/prehyeder" />
     </fragment>
     <fragment
